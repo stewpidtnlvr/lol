@@ -1,0 +1,12 @@
+{
+  "name": "lol",
+  "description": "fps",
+  "version": "1",
+  "keywords": [
+    "emscripten",
+    "BanannaBread",
+    "3D",
+    "C++",
+    "WebGL"
+  ]
+}
